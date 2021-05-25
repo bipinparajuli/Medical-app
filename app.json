@@ -1,0 +1,12 @@
+{
+  "name": "my-medical-app",
+  "displayName": "my-medical-app",
+  "expo": {
+    "name": "my-medical-app",
+    "slug": "my-medical-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
